@@ -6,4 +6,4 @@ mv composer.phar composer
 
 /home/master/composer –version 
 
-composer update or composer update –no-scripts
+composer --version
